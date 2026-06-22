@@ -159,11 +159,3 @@ The project is intended to provide exposure to both the technical side of machin
 Private Student-Owned Repository
 
 ---
-
-# Mentorship Philosophy
-
-I believe the best way to learn technical skills is to build something that genuinely interests you.
-
-Most students are capable of far more than they initially realize. The challenge is often not intelligence or motivation—it's figuring out how to take a big idea and break it into achievable steps.
-
-My goal as a mentor is to help students develop the confidence, technical skills, and problem-solving mindset needed to turn curiosity into meaningful projects and, ultimately, into opportunities they may not have thought possible.
