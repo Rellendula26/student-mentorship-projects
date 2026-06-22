@@ -27,3 +27,143 @@ More than anything, I love creating innovative and applicable tools and empoweri
 
 ---
 
+# 🎓 Student Mentorship Projects
+
+A collection of technical projects I've had the opportunity to mentor students through.
+
+One of my favorite things about mentoring is helping students transform an interest into something tangible. Whether that interest starts with sports, AI, medicine, engineering, or entrepreneurship, the goal is always the same: take an idea and turn it into a real project that teaches valuable technical skills along the way.
+
+These projects are student-owned and student-driven. My role is to help guide the technical process, challenge assumptions, introduce new concepts, and support students as they learn how to build increasingly ambitious solutions.
+
+---
+
+# 🏃 Form Coach AI
+
+### Research Question
+
+Can computer vision and AI be used to analyze an athlete's running form and provide personalized feedback that helps improve performance and reduce injury risk?
+
+### Project Summary
+
+Form Coach AI is an applied computer vision project that explores how modern AI systems can be used to understand human movement.
+
+The platform analyzes running videos and extracts key biomechanical information such as posture, stride patterns, joint positioning, and movement symmetry. By combining pose estimation with AI-driven feedback, the project aims to help athletes better understand their running mechanics and identify areas for improvement.
+
+This project sits at the intersection of sports science, artificial intelligence, biomechanics, and software engineering.
+
+### Tech Stack
+
+#### Computer Vision
+
+- OpenCV
+- Pose Estimation
+- Video Processing
+
+#### Artificial Intelligence
+
+- Machine Learning
+- AI-assisted feedback generation
+
+#### Software Development
+
+- React
+- TypeScript
+- Git & GitHub
+
+### What the Student Is Learning
+
+- Computer vision fundamentals
+- Human pose estimation
+- Video analysis pipelines
+- Machine learning concepts
+- Software architecture and design
+- Frontend development
+- GitHub collaboration workflows
+- How AI systems are built and evaluated
+
+### Mentorship Focus
+
+This project is designed to expose the student to a real-world AI application rather than a classroom exercise.
+
+Throughout development, we focus on breaking a large problem into smaller engineering challenges, evaluating different technical approaches, and learning how to transform an initial idea into a complete software product.
+
+The goal is not only to build a working application, but to develop the mindset of an engineer: asking good questions, testing ideas, learning from failures, and iterating toward better solutions.
+
+### Repository
+
+Private Student-Owned Repository
+
+---
+
+# 🏀 Prime Hoops Scribe
+
+### Research Question
+
+Can machine learning predict when an NBA player will reach their statistical prime based on their early-career performance?
+
+### Project Summary
+
+Prime Hoops Scribe is a sports analytics and machine learning project focused on understanding how NBA players develop throughout their careers.
+
+Using historical player statistics, the project explores whether patterns in a player's early seasons can be used to forecast when they are most likely to reach peak performance. Rather than simply identifying a player's best season in hindsight, the project investigates whether future prime years can be predicted before they occur.
+
+The project combines data science, predictive modeling, software engineering, and basketball analytics to explore one of the most interesting questions in professional sports.
+
+### Tech Stack
+
+#### Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+
+#### Data Science & Machine Learning
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+
+#### Data Sources
+
+- NBA statistics datasets
+- Basketball analytics data
+
+#### Development Tools
+
+- Git
+- GitHub
+
+### What the Student Is Learning
+
+- Data collection and cleaning
+- Exploratory data analysis
+- Feature engineering
+- Machine learning fundamentals
+- Model evaluation
+- Predictive modeling
+- Sports analytics
+- Frontend development
+- GitHub collaboration workflows
+
+### Mentorship Focus
+
+This project uses a student's passion for basketball as a gateway into machine learning and data science.
+
+Throughout development, we focus on how researchers and engineers approach open-ended questions: defining success metrics, collecting reliable data, building models, evaluating results, and communicating findings.
+
+The project is intended to provide exposure to both the technical side of machine learning and the process of conducting data-driven research.
+
+### Repository
+
+Private Student-Owned Repository
+
+---
+
+# Mentorship Philosophy
+
+I believe the best way to learn technical skills is to build something that genuinely interests you.
+
+Most students are capable of far more than they initially realize. The challenge is often not intelligence or motivation—it's figuring out how to take a big idea and break it into achievable steps.
+
+My goal as a mentor is to help students develop the confidence, technical skills, and problem-solving mindset needed to turn curiosity into meaningful projects and, ultimately, into opportunities they may not have thought possible.
