@@ -8,6 +8,14 @@ Whether it's machine learning, software engineering, AI, robotics, research, or 
 
 ---
 
+## Current Mentorship Projects
+
+| Project | Focus Area | Technologies | Status |
+|---------|------------|--------------|--------|
+| 🏃 Form Coach AI | Computer Vision & AI | OpenCV, React, TypeScript | 🔒 Private |
+| 🏀 Prime Hoops Scribe | Machine Learning | Python, Scikit-Learn, React | 🔒 Private |
+| 📚 Lexio Reading | AI & EdTech | LLMs, React, TypeScript | 🌐 Public |
+
 # About Me
 
 Hi! I'm Ritvik Ellendula, an Electrical Engineering student at the University of Pennsylvania.
@@ -157,5 +165,67 @@ The project is intended to provide exposure to both the technical side of machin
 ### Repository
 
 Private Student-Owned Repository
+
+---
+
+---
+
+# 📚 Lexio Reading
+
+### Research Question
+
+Can artificial intelligence create a more engaging and personalized reading experience that improves comprehension, vocabulary, and long-term learning?
+
+### Project Summary
+
+Lexio Reading is an AI-powered educational technology project focused on making reading more interactive and accessible for students.
+
+The platform explores how large language models can assist readers by providing contextual explanations, answering questions, defining unfamiliar vocabulary, and encouraging deeper engagement with reading material. Rather than replacing traditional reading, the goal is to build an intelligent learning companion that helps students better understand complex texts while fostering curiosity and independent learning.
+
+This project sits at the intersection of artificial intelligence, education technology, software engineering, and product design.
+
+### Tech Stack
+
+#### Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+
+#### Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Natural Language Processing
+- AI-assisted educational tools
+
+#### Software Development
+
+- Git
+- GitHub
+
+### What the Student Is Learning
+
+- Modern web development
+- AI application development
+- Prompt engineering
+- API integration
+- Product design principles
+- Software architecture
+- GitHub collaboration workflows
+- Building user-centered software
+
+### Mentorship Focus
+
+This project introduces the student to the rapidly growing field of AI-powered educational software.
+
+Throughout development, we focus on transforming an initial idea into a polished product by identifying user needs, designing intuitive user experiences, integrating AI responsibly, and iterating based on testing and feedback.
+
+Beyond the technical implementation, the project emphasizes product thinking—learning how engineers build software that solves meaningful real-world problems for real users.
+
+### Repository
+
+Private Student-Owned Repository
+
+Repository: 
 
 ---
